@@ -1,0 +1,16 @@
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\bin\Debug\Principal.exe.config
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\bin\Debug\Principal.exe
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\bin\Debug\Principal.pdb
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\bin\Debug\DataSerializers.dll
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\bin\Debug\Modelos.dll
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\bin\Debug\DataSerializers.pdb
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\bin\Debug\Modelos.pdb
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\obj\Debug\Principal.csproj.AssemblyReference.cache
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\obj\Debug\Principal.csproj.GenerateResource.cache
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\obj\Debug\Principal.csproj.Up2Date
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\obj\Debug\Principal.exe
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\obj\Debug\Principal.pdb
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\obj\Debug\Principal.exe.config
+C:\Users\bsanm\source\repos\GestorEstudiantes\Principal\obj\Debug\Principal.gbCorreo.resources
