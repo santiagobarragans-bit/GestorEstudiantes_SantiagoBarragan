@@ -1,9 +1,0 @@
-C:\Users\bsanm\source\repos\GestorEstudiantes\DataSerializers\bin\Debug\DataSerializers.dll
-C:\Users\bsanm\source\repos\GestorEstudiantes\DataSerializers\bin\Debug\DataSerializers.pdb
-C:\Users\bsanm\source\repos\GestorEstudiantes\DataSerializers\bin\Debug\Modelos.dll
-C:\Users\bsanm\source\repos\GestorEstudiantes\DataSerializers\bin\Debug\Modelos.pdb
-C:\Users\bsanm\source\repos\GestorEstudiantes\DataSerializers\obj\Debug\DataSerializers.csproj.AssemblyReference.cache
-C:\Users\bsanm\source\repos\GestorEstudiantes\DataSerializers\obj\Debug\DataSerializers.csproj.CoreCompileInputs.cache
-C:\Users\bsanm\source\repos\GestorEstudiantes\DataSerializers\obj\Debug\DataSeri.FCC6B591.Up2Date
-C:\Users\bsanm\source\repos\GestorEstudiantes\DataSerializers\obj\Debug\DataSerializers.dll
-C:\Users\bsanm\source\repos\GestorEstudiantes\DataSerializers\obj\Debug\DataSerializers.pdb

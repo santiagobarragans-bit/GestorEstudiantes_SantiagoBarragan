@@ -1,6 +1,0 @@
-C:\Users\bsanm\source\repos\GestorEstudiantes\Modelos\bin\Debug\Modelos.dll
-C:\Users\bsanm\source\repos\GestorEstudiantes\Modelos\bin\Debug\Modelos.pdb
-C:\Users\bsanm\source\repos\GestorEstudiantes\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
-C:\Users\bsanm\source\repos\GestorEstudiantes\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
-C:\Users\bsanm\source\repos\GestorEstudiantes\Modelos\obj\Debug\Modelos.dll
-C:\Users\bsanm\source\repos\GestorEstudiantes\Modelos\obj\Debug\Modelos.pdb
